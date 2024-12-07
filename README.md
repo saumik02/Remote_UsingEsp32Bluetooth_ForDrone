@@ -1,2 +1,3 @@
 # Remote_UsingEsp32Bluetooth_ForDrone
-Drone Remote
+This app is developed for controlling blutooth communication based drone. Using the app is very simple. After intalling the apk file in the android, pair the blutooth device with the phone. Then simply click the connect button. Some paired list will appear in a black screen. Select the targeted one and wait for few second. Then you will see connected written in green in the top middle. You can disconnect anytime using diosconnect button.
+I have developed this sofwatre using MIT app inventor. The code behind the app ,apk and also simple arduino code for recieving the sent data from the mobile using ESP32 devkitc V4 is attached in this repository
